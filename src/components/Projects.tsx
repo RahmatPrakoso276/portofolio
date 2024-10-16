@@ -443,7 +443,7 @@ export default function Projects() {
           <CardActions className="bg-[#0d1d3b] justify-end">
             <Button
               size="small"
-              href="https://github.com/RahmatPrakoso276"
+              href="https://github.com/RahmatPrakoso276/todo-app"
               target="_blank"
             >
               View
